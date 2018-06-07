@@ -1,5 +1,6 @@
 http://embed.plnkr.co/IzimSVsstarlFviAm7S7/preview
 https://ui-router.github.io/ng1/docs/latest/interfaces/params.paramdeclaration.html#raw
+https://blog.thoughtram.io/angular/2018/03/05/advanced-caching-with-rxjs.html
 
 	// create the module and name it scotchApp
 	var scotchApp = angular.module('scotchApp', ['ngRoute', 'ui.router']);
